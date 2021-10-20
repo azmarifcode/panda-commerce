@@ -1,0 +1,49 @@
+/** @format */
+
+/*$ body font kit  */
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+body {
+	font-family: poppins;
+	background-color: #f4f4f4;
+}
+.panda-color {
+	background-color: #feeae9;
+}
+.panda-rounded{
+    border-radius: 8px;
+}
+.panda-margin {
+	margin-top: 80px;
+}
+.panda-categories-color-1 {
+	background-color: #ffa500;
+}
+.panda-categories-color-2 {
+	background-color: #da70d6;
+}
+.panda-categories-color-3 {
+	background-color: #0000ff;
+}
+.panda-categories-img-w {
+	width: 100px;
+}
+.panda-categories-wh {
+	width: 360px;
+	height: 120px;
+}
+.panda-button {
+	background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+	color: white;
+	border: none;
+	border-radius: 8px;
+	padding: 9px 25px;
+}
+.panda-sub-bg {
+	background-color: #feeae9;
+    height: 300px;
+}
+.panda-sub-btn-margin {
+	margin-left: 120px;
+	margin-top: 15px;
+}
